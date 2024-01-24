@@ -24,3 +24,6 @@ The schedule of the 1 day course is summarized below:
 
 The notes/resources here in this repository can be used to prepare you for the [AWS Cloud Practitioner Certification Exam](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
+## References
+
+[AWS Technical Essentials (Classroom) - 1 Day Training](https://aws.amazon.com/training/classroom/aws-technical-essentials/)
